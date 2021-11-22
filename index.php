@@ -58,7 +58,7 @@ register.</p>
  <?php
 // DB connection info
 // TODO: Update the values for $host, $user, $pwd, and $db //using the values you retrieved earlier from the Azure Portal. $host = "value of Data Source";
-$host = "dzivko.azurewebsites.net";
+$host = "dzivko-server.mysql.database.azure.com";
 $user = "aeeuipaiep";
 $pwd = "E77LFH7O1ILUQ46A$";
 $db = "dzivko-server";
